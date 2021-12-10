@@ -1,2 +1,2 @@
-# project-website
-GitHub repo for our project website. Based in vue.js
+# IPNS-Link Project Website
+This website is based in vue.js
