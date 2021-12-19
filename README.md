@@ -1,4 +1,4 @@
 # IPNS-Link Project Website
 
 ## Todo:
-- Make website lmao
+- Add new background picture relating to asteroids or constellations
