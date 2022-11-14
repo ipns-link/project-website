@@ -1,0 +1,26 @@
+a {
+  transition: all .2s ease-in-out;
+  color: #278082;
+}
+
+a:focus, a:hover {
+  text-decoration: none;
+  color: #34aaae;
+}
+
+.dropdown-menu-dark .dropdown-item.active, .dropdown-menu-dark .dropdown-item:active {
+  color: #fff;
+  background-color: #34aaae;
+}
+
+code {
+  /*color: #278082;*/
+  /*font-family: MyFancyCustomFont, monospace;*/
+  /*font-size: inherit;*/
+  /*background: #111010;*/
+  /*word-wrap: break-word;*/
+  /*box-decoration-break: clone;*/
+  /*padding: .6rem .8rem .6rem;*/
+  /*border-radius: .3rem;*/
+}
+
